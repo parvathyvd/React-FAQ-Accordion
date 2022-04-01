@@ -5,8 +5,6 @@ function App() {
   return (
     <main>
      
-       <div className="card__wrapper">
-    
       <div className="card__inner">
         <div className="card__details">
             <div className="bg__box">
@@ -22,9 +20,9 @@ function App() {
           <div className='faq__container'>
           <Faq/>
           </div>
-      </div>
-    </div>
-  
+      </div>  
+
+
     </main> 
   );
 }
